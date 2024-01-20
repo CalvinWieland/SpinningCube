@@ -1,0 +1,3 @@
+/home/calvinwieland/projects/SpinningCube/build/CMakeFiles/SpinningCube.dir
+/home/calvinwieland/projects/SpinningCube/build/CMakeFiles/edit_cache.dir
+/home/calvinwieland/projects/SpinningCube/build/CMakeFiles/rebuild_cache.dir
