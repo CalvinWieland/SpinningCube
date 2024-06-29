@@ -1,6 +1,4 @@
 # SpinningCube
-A spinning cube, one displayed in text and the other using SFML graphics. The two 
-versions are in separate branches.
+A spinning cube displayed in text. It has been built using cmake.
 
-Note: The spinning cube made of text runs in Linux and has been built with cmake,
-while the SFML spinning cube runs in Visual Studio Community
+A GIF of the running code is in the repo, so you can see the final product without needing to run it.
